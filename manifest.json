@@ -1,0 +1,8 @@
+{
+    "name": "Backcord,
+    "description": "A theme based on other themes.",
+    "version": "ALPHA1",
+    "author": "stablestream",
+    "theme": "Backcord.theme.css",
+    "license": "MIT"
+}
